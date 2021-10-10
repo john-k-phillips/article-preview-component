@@ -4,7 +4,11 @@ const closeBtn = document.querySelector('.close');
 
 
 shareBtn.addEventListener('click', () => {
-    activeElement.style.display = 'flex';
+    if (activeElement.style.display == 'flex') {
+        activeElement.style.display = 'none';
+    } else {
+        activeElement.style.display = 'flex';
+    }
 })
 
 closeBtn.addEventListener('click', () => {
