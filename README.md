@@ -46,8 +46,11 @@ Your users should be able to:
 <h3>Tools</h3>
 
 <h3>What I Learnt<h3>
-I don't often get to use active and non active stats within CSS, using JavaScript to create a toggleable share feature was fun.
-My previous projects have used state management tools like react, so having pure JS was interesting.
-
+  <p>
+    I don't often get to use active and non active stats within CSS, using JavaScript to create a toggleable share feature was fun.
+    My previous projects have used state management tools like react, so having pure JS was interesting.
+  </p>
 <h3>Continuted Development</h3>
-I would like to redo the desktop design, the responsive nature of the page is very off and definitely needs repairs.
+  <p>
+    I would like to redo the desktop design, the responsive nature of the page is very off and definitely needs repairs.
+  </p>
