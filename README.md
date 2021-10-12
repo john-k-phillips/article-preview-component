@@ -27,7 +27,7 @@ Your users should be able to:
 - [x] View the optimal layout for the component depending on their device's screen size
 - [x] See the social media share links when they click the share icon
 
-
+![](./design/mobile-design.jpg)
 
 <!-- REPLACE LIST ITEMS -->
 <h2>Satisfication</h2>
