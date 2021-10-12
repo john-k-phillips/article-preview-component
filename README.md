@@ -27,24 +27,32 @@ Your users should be able to:
 - [x] View the optimal layout for the component depending on their device's screen size
 - [x] See the social media share links when they click the share icon
 
+<!-- IMAGE MAY NEED REPLACING -->
 ![](./design/mobile-design.jpg)
 
 <!-- REPLACE LIST ITEMS -->
 <h2>Satisfication</h2>
 <h3>The Good</h3>
   <ul>
-    <li>Hello</li>
-    <li>Hello</li>
+    <li>I like the use of flexbox with the mobile design.</li>
+    <li>I'm happy with how fast I was able to create a toggleable menu.</li>
   </ul>
 <h3>The Bad</h3>
   <ul>
-    <li></li>
-    <li></li>
+    <li>The responsive design was rushed and I'm not satisfied with it.</li>
+    <li>Git commits were all over the place and rushed. Something I don't normally do, It's important to me that I don't repeat this.</li>
   </ul>
 
+<!-- UPDATE ENTIRE SECTION -->
 <h2>The Process</h2>
 <h3>Tools</h3>
-
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" />
+  
+  <img alt="SASS" src="https://img.shields.io/badge/-SASS-bf4080?style=flat-square&logo=sass&logoColor=white" />
+</p>
 <h3>What I Learnt</h3>
   <p>
     I don't often get to use active and non active stats within CSS, using JavaScript to create a toggleable share feature was fun.
@@ -54,3 +62,5 @@ Your users should be able to:
   <p>
     I would like to redo the desktop design, the responsive nature of the page is very off and definitely needs repairs.
   </p>
+  
+<!--  Thank you for taking the time to review my projects!  -->
