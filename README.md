@@ -45,7 +45,7 @@ Your users should be able to:
 <h2>The Process</h2>
 <h3>Tools</h3>
 
-<h3>What I Learnt<h3>
+<h3>What I Learnt</h3>
   <p>
     I don't often get to use active and non active stats within CSS, using JavaScript to create a toggleable share feature was fun.
     My previous projects have used state management tools like react, so having pure JS was interesting.
