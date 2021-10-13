@@ -31,7 +31,7 @@ Your users should be able to:
 ![](./design/mobile-design.jpg)
 
 <!-- REPLACE LIST ITEMS -->
-<h2>Satisfication</h2>
+<h2>Satisfaction</h2>
 <h3>The Good</h3>
   <ul>
     <li>I like the use of flexbox with the mobile design.</li>
@@ -58,7 +58,7 @@ Your users should be able to:
     I don't often get to use active and non active stats within CSS, using JavaScript to create a toggleable share feature was fun.
     My previous projects have used state management tools like react, so having pure JS was interesting.
   </p>
-<h3>Continuted Development</h3>
+<h3>Continued Development</h3>
   <p>
     I would like to redo the desktop design, the responsive nature of the page is very off and definitely needs repairs.
   </p>
